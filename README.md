@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi 👋
 ## Titus Cheng
 Temasek Polytechnic Student
 Diploma in Computer Engineering
