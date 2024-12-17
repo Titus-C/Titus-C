@@ -1,5 +1,7 @@
+## Hi 👋
 ## Titus Cheng
 Temasek Polytechnic Student
+Diploma in Computer Engineering
 
 <!--
 **Titus-C/Titus-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
