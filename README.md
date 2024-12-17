@@ -1,6 +1,6 @@
 # Hi 👋
 ## I'm Titus
-Temasek Polytechnic Student
+Temasek Polytechnic Student  
 Diploma in Computer Engineering
 
 <!--
