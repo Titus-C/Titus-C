@@ -1,5 +1,5 @@
 # Hi 👋
-## Titus Cheng
+## I'm Titus
 Temasek Polytechnic Student
 Diploma in Computer Engineering
 
